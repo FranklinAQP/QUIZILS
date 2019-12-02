@@ -1,2 +1,2 @@
 # QUIZILS
-Aplicacion para tomar QUIZ
+Aplicacion para tomar QUIZ  en el instituto ILSXXI
